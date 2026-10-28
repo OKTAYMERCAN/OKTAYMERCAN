@@ -95,3 +95,6 @@
 </table>
 
 ### 🧪[And more... Check Out my repos.](https://github.com/OKTAYMERCAN?tab=repositories)
+<details>
+  <img align="left" alt="OKTAY MERCAN's Github Stats" src="https://github-readme-stats.vercel.app/api?username=OKTAYMERCAN&show_icons=true&border_color=2F3745&bg_color=000000&title_color=11ff00&text_color=EDE4D3" />
+</details>
