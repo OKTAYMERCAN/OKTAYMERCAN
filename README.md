@@ -1,21 +1,16 @@
-<h1 align="center">Merhaba, ben Oktay Mercan 👋</h1>
+<h1 align="center">Greetings! 👋 I'm OKTAY MERCAN</h1>
 
 <p align="center">
-  Merak ettiğim şeyleri çalışan araçlara, shader'lara ve küçük cihazlara dönüştürüyorum.
+  Whatever pops into my head, I turn my dreams into reality using an AI compiler.
 </p>
 
 ---
 
 ## 👤 Hakkımda
 
-Ben Oktay Mercan. Minecraft için gerçek zamanlı ışık izleme (ray / path tracing) shader'ları, kurulum gerektirmeyen tek dosyalık tarayıcı araçları, Python ile masaüstü yardımcı yazılımlar ve Arduino / Raspberry Pi Pico ile sensör projeleri geliştiriyorum. Projelerimin çoğunu yapay zekâ desteğiyle üretiyorum; teknolojinin nereye kadar gidebildiğini denemeyi ve ortaya çalışan bir şey çıkarmayı seviyorum.
+Kafama ne eser ise hayallerimi AI compiler ile gerçeğe dönüştürüyorum.
 
-- 🎮 Minecraft: Iris shader paketleri ve ComputerCraft (Lua) turtle programları
-- 🧰 İnternetsiz, tek HTML dosyasıyla çalışan tarayıcı araçları
-- 🔌 Arduino ve Raspberry Pi Pico ile sıcaklık / nem ölçüm projeleri
-- 🌍 Türkçe ve İngilizce arayüzlü projeler
-
-## 🛠️ Teknolojiler
+## 🛠️ Techs
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -25,10 +20,11 @@ Ben Oktay Mercan. Minecraft için gerçek zamanlı ışık izleme (ray / path tr
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![AI](https://img.shields.io/badge/AI-0175C2?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
-## 🚀 Portfolio
+## 🚀 Some of my projects...
 
 <table>
   <tr>
@@ -123,17 +119,4 @@ Ben Oktay Mercan. Minecraft için gerçek zamanlı ışık izleme (ray / path tr
   </tr>
 </table>
 
-### 🧪 Diğer projeler
-
-- 🤖 [**Farmbot**](https://github.com/OKTAYMERCAN/farmbot): ComputerCraft turtle'ı için çiftçilik otomasyonu (Lua)
-- 🪓 [**Lumberbot**](https://github.com/OKTAYMERCAN/lumberbot): ComputerCraft turtle'ı için ağaç kesme ve ağaç yetiştirme otomasyonu (Lua)
-- ⛏️ [**1chunkquarry**](https://github.com/OKTAYMERCAN/1chunkquarry): ComputerCraft için 1 chunk boyutunda maden (quarry) programı (Lua)
-- 🎲 [**mytxtgame**](https://github.com/OKTAYMERCAN/mytxtgame): Java ile yazdığım metin tabanlı oyun (geliştirmesi durduruldu)
-
-Tüm projelerim: [github.com/OKTAYMERCAN?tab=repositories](https://github.com/OKTAYMERCAN?tab=repositories)
-
----
-
-<p align="center">
-  Bir projemle ilgili fikrin ya da sorun varsa ilgili repoda <b>Issue</b> açabilirsin. 🙌
-</p>
+### 🧪[And more... Check Out my repos.](https://github.com/OKTAYMERCAN?tab=repositories)
