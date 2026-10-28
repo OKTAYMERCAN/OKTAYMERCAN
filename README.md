@@ -4,12 +4,6 @@
   Whatever pops into my head, I turn my dreams into reality using an AI compiler.
 </p>
 
----
-
-## 👤 Hakkımda
-
-Kafama ne eser ise hayallerimi AI compiler ile gerçeğe dönüştürüyorum.
-
 ## 🛠️ Techs
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -21,8 +15,7 @@ Kafama ne eser ise hayallerimi AI compiler ile gerçeğe dönüştürüyorum.
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-0175C2?style=for-the-badge&logo=openai&logoColor=white)
-
----
+...
 
 ## 🚀 Some of my projects...
 
@@ -97,24 +90,6 @@ Kafama ne eser ise hayallerimi AI compiler ile gerçeğe dönüştürüyorum.
       <h3><a href="https://github.com/OKTAYMERCAN/Universal-UPS-Monitor-and-logging-software">🔋 Universal UPS Monitor &amp; Logging</a></h3>
       <p>RS232 seri port üzerinden UPS cihazını izler: şebeke durumu, pil seviyesi ve voltajı canlı gösterir, verileri Excel veya Google Sheets'te grafik çizmek için CSV dosyasına kaydeder.</p>
       <p><code>Python</code> <code>RS232</code> <code>CSV</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/OKTAYMERCAN/picohosted-DHT22temperature-humidity-meter">
-        <img src="https://github.com/user-attachments/assets/e0ec6430-0f6c-4cd9-aa6a-841d1f03578a" alt="Pico DHT22 Temperature Humidity Meter" width="100%">
-      </a>
-      <h3><a href="https://github.com/OKTAYMERCAN/picohosted-DHT22temperature-humidity-meter">🌡️ Pico DHT22 Sıcaklık ve Nem Ölçer</a></h3>
-      <p>Raspberry Pi Pico'nun kendi sunduğu web sayfasında DHT22 sensöründen sıcaklığı, nemi ve hesaplanan hissedilen sıcaklığı gösterir; yüksek değerlerde uyarı verir.</p>
-      <p><code>Python</code> <code>Raspberry Pi Pico</code> <code>DHT22</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/OKTAYMERCAN/Ardiuno_Temperature_Humidity_Meter_Project">
-        <img src="https://user-images.githubusercontent.com/20504071/190677367-38092d8e-4862-43d1-8c08-c850792b4641.jpg" alt="Arduino Temperature Humidity Meter" width="100%">
-      </a>
-      <h3><a href="https://github.com/OKTAYMERCAN/Ardiuno_Temperature_Humidity_Meter_Project">🔌 Arduino Sıcaklık ve Nem Ölçer</a></h3>
-      <p>Arduino Uno/Nano, DHT22 sensörü ve Nokia 5110 LCD ekranla yapılmış sıcaklık ve nem ölçer. Basit bir saat ve seri port çıkışı da içerir.</p>
-      <p><code>C++</code> <code>Arduino</code> <code>DHT22</code></p>
     </td>
   </tr>
 </table>
