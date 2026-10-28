@@ -60,7 +60,7 @@ Ben Oktay Mercan. Minecraft için gerçek zamanlı ışık izleme (ray / path tr
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/OKTAYMERCAN/one-file-mbox-and-eml-viewer">
-        <img src="https://github.com/user-attachments/assets/2f377574-57c5-4bc8-8ca1-f067e4219ce2" alt="One-File MBOX & EML Viewer" width="100%">
+        <img src="https://github.com/user-attachments/assets/f2d9f51b-c452-4176-9ad5-b0099c10f178" alt="One-File MBOX & EML Viewer" width="100%">
       </a>
       <h3><a href="https://github.com/OKTAYMERCAN/one-file-mbox-and-eml-viewer">📧 One-File MBOX &amp; EML Viewer</a></h3>
       <p><code>.mbox</code> arşivlerini ve <code>.eml</code> mesajlarını gerçek bir e-posta istemcisi gibi tarayıcıda açar. Kurulum yok, e-postalar bilgisayarından çıkmaz, izleme pikselleri engellenir.</p>
