@@ -13,7 +13,7 @@
         <img src="https://github.com/user-attachments/assets/8dff6746-7f41-48b8-983b-66458598467e" alt="CORAL VXGI" width="100%">
       </a>
       <h3><a href="https://github.com/OKTAYMERCAN/CORAL-VXGI">🪸 CORAL VXGI</a></h3>
-      <p>A voxel-based, real-time ray traced global illumination shader pack for Minecraft Java (Iris). Includes light bounces, ray traced reflections and shadows, an SVGF denoiser...</p>
+      <p>A voxel-based, real-time ray traced global illumination(VXGI) shader pack for Minecraft Java (Iris). Includes light bounces, ray traced reflections and shadows, an SVGF denoiser...</p>
       <p><code>Minecraft Java</code> <code>Iris</code> <code>Ray Tracing</code></p>
     </td>
     <td width="50%" valign="top">
