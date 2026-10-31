@@ -13,7 +13,7 @@
         <img src="https://github.com/user-attachments/assets/8dff6746-7f41-48b8-983b-66458598467e" alt="CORAL VXGI" width="100%">
       </a>
       <h3><a href="https://github.com/OKTAYMERCAN/CORAL-VXGI">🪸 CORAL VXGI</a></h3>
-      <p>A voxel-based, real-time ray traced global illumination shader pack for Minecraft Java (Iris). Includes light bounces, ray traced reflections and shadows, an SVGF denoiser, and over 250 settings.</p>
+      <p>A voxel-based, real-time ray traced global illumination shader pack for Minecraft Java (Iris). Includes light bounces, ray traced reflections and shadows, an SVGF denoiser...</p>
       <p><code>Minecraft Java</code> <code>Iris</code> <code>Ray Tracing</code></p>
     </td>
     <td width="50%" valign="top">
@@ -21,7 +21,7 @@
         <img src="https://github.com/user-attachments/assets/6acc4091-1c87-4548-97d4-f08a4100de8d" alt="LampPT" width="100%">
       </a>
       <h3><a href="https://github.com/OKTAYMERCAN/LampPT">💡 LampPT</a></h3>
-      <p>A path traced global illumination shader pack for Minecraft (Iris). An experimental proof of concept in early alpha.</p>
+      <p>A path traced global illumination(PTGI) shader pack for Minecraft (Iris)...</p>
       <p><code>Minecraft Java</code> <code>Iris</code> <code>Path Tracing</code></p>
     </td>
   </tr>
@@ -32,7 +32,7 @@
       </a>
       <h3><a href="https://github.com/OKTAYMERCAN/Digital-Jigsaw-Table">🧩 Digital Jigsaw Table</a></h3>
       <p>Turns any image into a jigsaw puzzle with 12 to 20,000 pieces. Runs offline as a single HTML file, saves your progress automatically, and offers Turkish and English interfaces.</p>
-      <p><code>HTML</code> <code>Single file</code> <code>Offline</code></p>
+      <p><code>Browser</code> <code>Single file</code> <code>Offline</code></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/OKTAYMERCAN/one-file-mbox-and-eml-viewer">
@@ -40,7 +40,7 @@
       </a>
       <h3><a href="https://github.com/OKTAYMERCAN/one-file-mbox-and-eml-viewer">📧 One-File MBOX &amp; EML Viewer</a></h3>
       <p>Opens <code>.mbox</code> archives and <code>.eml</code> messages in your browser like a real email client. No installation, your emails never leave your computer, and tracking pixels are blocked.</p>
-      <p><code>HTML</code> <code>Single file</code> <code>Privacy</code></p>
+      <p><code>Browser</code> <code>Single file</code> <code>Offline</code></p>
     </td>
   </tr>
   <tr>
@@ -50,7 +50,7 @@
       </a>
       <h3><a href="https://github.com/OKTAYMERCAN/RPG-Mission-list">⚔️ RPG Mission List</a></h3>
       <p>Turns your to-do list into a role-playing game: complete tasks to earn XP and gold, level up, unlock medals, and buy rewards you define yourself.</p>
-      <p><code>HTML</code> <code>Single file</code> <code>Offline</code></p>
+      <p><code>Browser</code> <code>Single file</code> <code>Offline</code></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/OKTAYMERCAN/Image-Comparison-Tool">
@@ -58,7 +58,7 @@
       </a>
       <h3><a href="https://github.com/OKTAYMERCAN/Image-Comparison-Tool">🖼️ Image Comparison Tool</a></h3>
       <p>A comparison tool that puts two images side by side so you can easily spot the differences.</p>
-      <p><code>HTML</code> <code>Cross-platform</code></p>
+      <p><code>Browser</code> <code>Single file</code> <code>Offline</code></p>
     </td>
   </tr>
   <tr>
@@ -67,7 +67,7 @@
         <img src="https://github.com/user-attachments/assets/40f75c69-7246-48bf-be91-e476c68a5391" alt="UFCT Universal File Comparison Tool" width="100%">
       </a>
       <h3><a href="https://github.com/OKTAYMERCAN/UFCT-Universal-File-Comparasion-Tool">📂 UFCT – Universal File Comparison Tool</a></h3>
-      <p>Compares two folders quickly by file name, or in depth by hash (checksum) values. Finds missing or corrupted files on backup drives and exports the result as an Excel (<code>.xlsx</code>) or ODS report.</p>
+      <p>Compares two folders quickly by file name, or in depth by hash (checksum) values. Finds missing files on backup drives and exports the result as an Excel (<code>.xlsx</code>) or ODS report.</p>
       <p><code>Python</code> <code>Excel / ODS</code> <code>Cross-platform</code></p>
     </td>
     <td width="50%" valign="top">
@@ -75,7 +75,7 @@
         <img src="https://github.com/user-attachments/assets/a256da23-634f-47a6-92a5-b51159b38ffd" alt="Universal UPS Monitor" width="100%">
       </a>
       <h3><a href="https://github.com/OKTAYMERCAN/Universal-UPS-Monitor-and-logging-software">🔋 Universal UPS Monitor &amp; Logging</a></h3>
-      <p>Monitors a UPS over an RS232 serial port: shows grid status, battery level and voltage live, and logs the data to a CSV file for charting in Excel or Google Sheets.</p>
+      <p>Monitors a UPS over an RS232 serial port: shows grid status, battery level and voltage live, and logs the data to a CSV file for charting in Excel or Google Sheets etc...</p>
       <p><code>Python</code> <code>RS232</code> <code>CSV</code></p>
     </td>
   </tr>
